@@ -50,7 +50,8 @@ Acá tienes un tutorial para ello:
 
 En este repositorio puedes encontrar los códigos de las distintas versiones del _theremin_, en _Softwares_. Estos códigos deben subirse al arduino para usarlo, y esa parte es fácil, lo puedes buscar o consultarnos.
 
-El programa traductor , para descargarlo, así como el código que lo generó, los podrás encontrar acá:
+El programa traductor, para descargarlo, así como el código que lo generó, los podrás encontrar acá:
+<https://github.com/J-Lu99/CiudadELA_traductor_GUI>
 
 En la carpeta _Necessary_ puedes encontrar paquetes necesarios para usar los programas.
 
