@@ -4,10 +4,9 @@
 
 El _theremin_ es un instrumento musical muy curioso, pues no necesita de contacto directo, sino que detecta la posición de las manos 🖐, y según esta suena una frecuencia particular, a un volumen determinado.
 
-Fue inventado por el físico ruso Léon Theremin, en 1920, pero @dumb_stuff_maker y @jose.l_delaoliva trabajaron en una versión propia, con muy pocos componentes, que hemos continuado desarrollando. Lo más importante es que esta versión es posible tocarla fácilmente, y con cualquier parte de nuestro cuerpo.
+Fue inventado por el físico ruso Léon Theremin, en 1920, pero [Daniela Camejo][identifier1] y [José Luis de la Oliva][identifier2] trabajaron en una versión propia, con muy pocos componentes, que hemos continuado desarrollando. Lo más importante es que esta versión es posible tocarla fácilmente, y con cualquier parte de nuestro cuerpo.
 
 Con la info que te damos pudieses armarlo sin importar si te desempeñas en estos campos o no. Te contamos:
-
 
 ----
 
@@ -37,7 +36,9 @@ El código también se encarga de que solo se usen notas sin mucha disonancia en
 
 Si adaptamos un poco el código, podemos hacer que en lugar de sonar una nota según la distancia suene una melodía completa, y tenemos un reproductor. Esta versión y otra que sirve de instrumento y reproductor a la vez las tenemos desarrolladas en este repositorio también.
 
-Todo esto nos permitió que nuestro _theremin_ fuese la vía por la que Irene, Lázaro, Joan y Tamara (quienes son pacientes de ELA) convirtiesen sus movimientos en melodías, y usándolo también se registraran estas, se tradujeran (con el programa) e incluso se reprodujeran en el estudio de grabación. Todo este proceso ha sido parte del proyecto CiudadELA Camp, al que se han unido un grupo de músicos cubanos para, usando estas melodías registradas, crear canciones que serám vendidas como NFT para apoyar a los pacientes con esta enfermedad.
+Desarrollamos una interfaz gráfica de usuario (GUI), un ejecutable en cualquier computadora con Windows, que permite traducir lo salido del theremin a cifrados musicales legibles (recuerda que lo que sale del arduino son frecuencias, números), pero también pasar de un cifrado musical a otro, o incluso traducir  unas notas al lenguaje en que puede reproducirlas el _theremin_
+
+Todo esto nos permitió que nuestro _theremin_ fuese la vía por la que Irene, Lázaro, Joan y Tamara (quienes son pacientes de ELA) convirtiesen sus movimientos en melodías, y usándolo también se registraran estas, se tradujeran (con el programa) e incluso se reprodujeran en el estudio de grabación. Todo este proceso ha sido parte del proyecto CiudadELA Camp, al que se han unido un grupo de músicos cubanos para, usando estas melodías registradas, crear canciones que serán vendidas como NFT para apoyar a los pacientes con esta enfermedad.
 
 
 ## Tutoriales y códigos
@@ -47,11 +48,11 @@ Aunque nos pueden ser difíciles de conseguir, como ves solo son necesarios par 
 Acá tienes un tutorial para ello:
 <https://telegra.ph/Theremin-08-18>
 
-En este repositorio puedes encontrar los códigos de las distintas versiones del _theremin_, en Softwares. Estos códigos deben subirse al arduino para usarlo, y esa parte es fácil, lo puedes buscar o consultarnos.
+En este repositorio puedes encontrar los códigos de las distintas versiones del _theremin_, en _Softwares_. Estos códigos deben subirse al arduino para usarlo, y esa parte es fácil, lo puedes buscar o consultarnos.
 
-Desarrollamos un programa, ejecutable en cualquier computadora con Windows, que permite traducir lo salido del theremin a cifrados musicales legibles (acuérdate que lo que sale del arduino son frecuencias, números), pero también pasar de un cifrado musical a otro, o incluso traducir  unas notas al lenguaje en que puede reproducirlas el _theremin_. El programa, para descargarlo, así como el código que lo generó, los podrás encontrar acá:
+El programa traductor , para descargarlo, así como el código que lo generó, los podrás encontrar acá:
 
-En la carpeta Necessary puedes encontrar paquetes necesarios para usar los programas.
+En la carpeta _Necessary_ puedes encontrar paquetes necesarios para usar los programas.
 
 ----
 
@@ -78,5 +79,8 @@ _CiudadELA no termina aquí, seguimos trabajando como trinchera contra esta enfe
 Usamos como referencia el proyecto:
  <https://www.hackster.io/pollux-labs/arduino-theremin-with-a-minor-pentatonic-b56de4>
 
+<!-- Identifiers-->
+[identifier1]: https://www.instagram.com/dumb_stuff_maker/
+[identifier2]: https://www.instagram.com/jose.l_delaoliva/
 
 
