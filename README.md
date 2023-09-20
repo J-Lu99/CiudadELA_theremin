@@ -27,7 +27,7 @@ Con la info que te damos pudieses armarlo sin importar si te desempeñas en esto
 
 Ahora solo nos falta usar una _protoboard_, que es donde conectamos todo.
 
-![Semantic description of image](/source/images/Theremin.jpg)*Theremin armado*
+![Semantic description of image](/source/images/Theremin.JPG)*Theremin armado*
 
 
 
