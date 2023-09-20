@@ -24,7 +24,7 @@ Con la info que te damos pudieses armarlo sin importar si te desempeñas en esto
 
 🔌 En realidad, el arduino no sabe lo que es una nota, lo que puede hacer es pasar por los cables una corriente de determinada frecuencia. Esa frecuencia será la misma que la de la nota musical que se debería reproducir (las notas son ondas, lo que mecánicas, y estas tienen frecuencia).
 
-🔊 El corrientazo se lo lleva un _buzzer_ , que tiene un piezoeléctrico incluido. ¿Qué es eso?. Sencillo,son materiales superinteresantes que, al recibir un campo eléctrico, sufren deformaciones (y viceversa). ¿Y esto para qué nos sirve? Pues que el corrientazo que le dimos lo va a hacer vibrar (con la frecuencia que le dimos).
+🔊 El corrientazo se lo lleva un _buzzer_, que tiene un piezoeléctrico incluido. ¿Qué es eso?. Sencillo,son materiales superinteresantes que, al recibir un campo eléctrico, sufren deformaciones (y viceversa). ¿Y esto para qué nos sirve? Pues que el corrientazo que le dimos lo va a hacer vibrar (con la frecuencia que le dimos).
 
 🍃 Pasa ahora a la pieza final, el aire. El aire en contacto con el _buzzer_ vibrará también, y al propagarse por él esa vibración tenemos una onda, y eso precisamente es el sonido que percibimos. Según la fecuencia de la onda tendremos un anota distinta. 
 
