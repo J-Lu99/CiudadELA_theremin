@@ -25,7 +25,7 @@ Con la info que te damos pudieses armarlo sin importar si te desempeñas en esto
 
 🍃 Pasa ahora a la pieza final, el aire. El aire en contacto con el _buzzer_ vibrará también, y al propagarse por él esa vibración tenemos una onda, y eso precisamente es el sonido que percibimos. Según la fecuencia de la onda tendremos un anota distinta. 
 
-Ahora solo nos falta usar una _protoboard_, que es donde conectamos todo.
+Ahora solo nos falta usar una _protoboard_ (placa de pruebas), que es donde conectamos todo.
 
 ![Semantic description of image](/source/images/Theremin.JPG)*Theremin armado*
 
