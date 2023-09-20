@@ -1,2 +1,2 @@
-# ciudadela--theremin
-proyecto de theremin para ciudadela-camp
+# CiudadELA_theremin
+Proyecto de theremin para CiudadELA Camp
