@@ -38,6 +38,7 @@ Ahora solo nos falta usar una _protoboard_, que es donde conectamos todo.
 ![Semantic description of image](/source/images/Theremin.jpg)*Theremin armado*
 
 
+
 ## Funcionalidades musicales
 
 El código también se encarga de que solo se usen notas sin mucha disonancia entre ellas (aquellas que pertenecen a la escala pentatónica de la menor), así que prepárate, porque cualquiera puede tocarlo. Algunas funcionalidades extras incluidas son: tocar con un cierto tempo; registrar las melodías que tocamos; cambiar dinámicamente a la escala mayor de do (para tener más diversidad de notas); una transición suave cuando dejamos de tocar, pues demorará unos milisegundos en desaparecer el sonido, a diferencia de cuando tocamos con fluidez; dejar de registrar las pausas luego de 1 segundo de pausas consecutivas, entre otras.
