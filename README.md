@@ -30,7 +30,6 @@ Con la info que te damos pudieses armarlo sin importar si te desempeñas en esto
 
 Ahora solo nos falta usar una _protoboard_ (placa de pruebas), que es donde conectamos todo.
 
------
 
 ## Funcionalidades musicales
 
@@ -40,7 +39,6 @@ Si adaptamos un poco el código, podemos hacer que en lugar de sonar una nota se
 
 Todo esto nos permitió que nuestro _theremin_ fuese la vía por la que Irene, Lázaro, Joan y Tamara (quienes son pacientes de ELA) convirtiesen sus movimientos en melodías, y usándolo también se registraran estas, se tradujeran (con el programa) e incluso se reprodujeran en el estudio de grabación. Todo este proceso ha sido parte del proyecto CiudadELA Camp, al que se han unido un grupo de músicos cubanos para, usando estas melodías registradas, crear canciones que serám vendidas como NFT para apoyar a los pacientes con esta enfermedad.
 
-----
 
 ## Tutoriales y códigos
 
