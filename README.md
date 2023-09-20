@@ -1,5 +1,5 @@
 # CiudadELA_theremin
-{:.no_toc}
+
 
 El _theremin_ es un instrumento musical muy curioso, pues no necesita de contacto directo, sino que detecta la posición de las manos 🖐, y según esta suena una frecuencia particular, a un volumen determinado.
 
@@ -8,14 +8,6 @@ Fue inventado por el físico ruso Léon Theremin, en 1920, pero @dumb_stuff_make
 Con la info que te damos pudieses armarlo sin importar si te desempeñas en estos campos o no. Te contamos:
 
 ![Semantic description of image](/source/images/Componentes.jpg)*De izquierda a derecha: arduino (nano en este caso); _buzzer_ (zumbador); ultrasónico.*
-
-----
-
-## Índice
-{:.no_toc}
-
-- TOC
-{:toc}
 
 ----
 
@@ -46,6 +38,7 @@ El código también se encarga de que solo se usen notas sin mucha disonancia en
 Si adaptamos un poco el código, podemos hacer que en lugar de sonar una nota según la distancia suene una melodía completa, y tenemos un reproductor. Esta versión y otra que sirve de instrumento y reproductor a la vez las tenemos desarrolladas en este repositorio también.
 
 Todo esto nos permitió que nuestro _theremin_ fuese la vía por la que Irene, Lázaro, Joan y Tamara (quienes son pacientes de ELA) convirtiesen sus movimientos en melodías, y usándolo también se registraran estas, se tradujeran (con el programa) e incluso se reprodujeran en el estudio de grabación. Todo este proceso ha sido parte del proyecto CiudadELA Camp, al que se han unido un grupo de músicos cubanos para, usando estas melodías registradas, crear canciones que serám vendidas como NFT para apoyar a los pacientes con esta enfermedad.
+
 ----
 
 ## Tutoriales y códigos
@@ -60,6 +53,7 @@ En este repositorio puedes encontrar los códigos de las distintas versiones del
 Desarrollamos un programa, ejecutable en cualquier computadora con Windows, que permite traducir lo salido del theremin a cifrados musicales legibles (acuérdate que lo que sale del arduino son frecuencias, números), pero también pasar de un cifrado musical a otro, o incluso traducir  unas notas al lenguaje en que puede reproducirlas el _theremin_. El programa, para descargarlo, así como el código que lo generó, los podrás encontrar acá:
 
 En la carpeta Necessary puedes encontrar paquetes necesarios para usar los programas.
+
 ----
 
 ## ¿Qué hemos logrado con esto? Más detalles sobre CiudadELA Camp
