@@ -1,5 +1,6 @@
 # CiudadELA_theremin
 
+![Semantic description of image](/source/images/Theremin.JPG)*Theremin armado*
 
 El _theremin_ es un instrumento musical muy curioso, pues no necesita de contacto directo, sino que detecta la posición de las manos 🖐, y según esta suena una frecuencia particular, a un volumen determinado.
 
@@ -7,11 +8,13 @@ Fue inventado por el físico ruso Léon Theremin, en 1920, pero @dumb_stuff_make
 
 Con la info que te damos pudieses armarlo sin importar si te desempeñas en estos campos o no. Te contamos:
 
-![Semantic description of image](/source/images/Componentes.jpg)*De izquierda a derecha: arduino (nano en este caso); _buzzer_ (zumbador); ultrasónico.*
 
 ----
 
 ## Funcionamiento
+
+![Semantic description of image](/source/images/Componentes.jpg)*De izquierda a derecha: arduino (nano en este caso); _buzzer_ (zumbador); ultrasónico.*
+
 
 🧠 El primer componente es el arduino, es dónde se almacena nuestro código, y desde ahí se le dice a cada pieza qué debe hacer.
 
@@ -27,9 +30,7 @@ Con la info que te damos pudieses armarlo sin importar si te desempeñas en esto
 
 Ahora solo nos falta usar una _protoboard_ (placa de pruebas), que es donde conectamos todo.
 
-![Semantic description of image](/source/images/Theremin.JPG)*Theremin armado*
-
-
+-----
 
 ## Funcionalidades musicales
 
