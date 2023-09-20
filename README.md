@@ -44,7 +44,7 @@ Todo esto nos permitió que nuestro _theremin_ fuese la vía por la que Irene, L
 
 ## Tutoriales y códigos
 
-Aunque nos pueden ser difíciles de conseguir, como ves solo son necesarios par de cables y piezas, y tenemos música, así que solo te falta saber cómo conectar qué con qué.
+Aunque nos pueden ser difíciles de conseguir, como ves solo son necesarios par de cables y piezas, y tenemos música, así que solo te falta saber cómo conectar qué con qué. En nuestro caso contamos con el apoyo del profesor Gustavo Antonio Sánchez Colina, para obtener las piezas iniciales, y la colaboración de Copincha para el desarrollo posterior con nuevas piezas.
 
 Acá tienes un tutorial para ello:
 <https://telegra.ph/Theremin-08-18>
@@ -73,7 +73,12 @@ Se presentan tres etapas que recogen la esencia del proyecto:
 
 - El 8 de septiembre del año 2023 se materializó la tercera etapa, a través de un performance que mostró el recorrido realizado. Estuvieron presentes talleres sobre tecnología, artes, fotografía terapéutica, campos han aportado a la visibilización de la ELA desde su perspectiva y posibilidades. COntamos además con la presencia de los pacientes que han sido parte del proyecto. 
 
-CiudadELA no termina aquí, seguimos trabajando como trinchera contra esta enfermedad, y apoyo a quienes la padecen.
+_CiudadELA no termina aquí, seguimos trabajando como trinchera contra esta enfermedad, y apoyo a quienes la padecen._
+
+## Referencias
+
+Usamos como referencia el proyecto:
+ <https://www.hackster.io/pollux-labs/arduino-theremin-with-a-minor-pentatonic-b56de4>
 
 
 
